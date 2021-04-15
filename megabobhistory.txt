@@ -1,0 +1,2 @@
+The client megabob logged in to the chat megabob:hallo
+The client megabob logged in to the chat megabob:hallo2
